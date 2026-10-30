@@ -1,0 +1,3 @@
+/home/vio/Desktop/PhotoManager/build/CMakeFiles/PhotoManager.dir
+/home/vio/Desktop/PhotoManager/build/CMakeFiles/edit_cache.dir
+/home/vio/Desktop/PhotoManager/build/CMakeFiles/rebuild_cache.dir

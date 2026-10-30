@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/PhotoManager.dir/src/main.cpp.o CMakeFiles/PhotoManager.dir/src/Photo.cpp.o -o PhotoManager 
